@@ -5,10 +5,10 @@
 </div> 
 
 <div id="badges" align="center" >
-    <a href="https://www.linkedin.com/in/asher-andargachew" target="_blank">
+    <a href="https://www.linkedin.com/in/saminmaharjan" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=dark&style=for-the-badge">
     </a>
-    <a href="https://asherand.com" target="_blank">
+    <a href="https://saminmaharjan.my.canva.site/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-black?logo=windowsterminal&logoColor=white&style=for-the-badge">
     </a>
 </div>
