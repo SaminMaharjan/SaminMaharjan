@@ -1,4 +1,4 @@
-## Hey, I'm Samin👋
+## Hey, welcome to my github ┏ (゜ω゜)=👉
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif?cid=ecf05e47roxrqezu0wgzxdxjxackwa7qx5rp222xb31fjfaf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
@@ -39,7 +39,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SaminMaharjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### ✍️ Random Dev Quote
+### 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 [![](https://visitcount.itsvg.in/api?id=SaminMaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
