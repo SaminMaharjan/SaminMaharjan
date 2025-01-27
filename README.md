@@ -1,9 +1,9 @@
 ## Hey, welcome to my github ;D
 
-<div id="header" align="center">
+<!--  <div id="header" align="center">
   <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif?cid=ecf05e47roxrqezu0wgzxdxjxackwa7qx5rp222xb31fjfaf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
 </div> 
-
+-->
 <div id="badges" align="center" >
     <a href="https://www.linkedin.com/in/saminmaharjan" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=dark&style=for-the-badge">
@@ -33,15 +33,5 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaminMaharjan&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaminMaharjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-### 🧠 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
----
-[![](https://visitcount.itsvg.in/api?id=SaminMaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
